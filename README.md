@@ -37,6 +37,6 @@ If your codebase needs a fresh set of eyes that can see through complexity and t
 
 
 Remember, every pull request is a doorway to collaboration and every fork in the code is a path to new adventures. 
-So don't hesitate to reach out; my inbox is always open for a friendly 🤘🏽
+So don't hesitate to reach out; 🤘🏽
 
 
