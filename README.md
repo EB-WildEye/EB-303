@@ -15,17 +15,15 @@ As a computer science student and part-time code whisperer, I tread the bytes an
 #### What I'm Up To 👩🏽‍💻
 
 - 🔭 I’m currently on a quest to craft code that's as robust as it is witty.
-- 🌱 I’m always learning – because knowledge is like a software update for the brain.
+- 🌱 Always learning – because knowledge is like a software update for the brain.
 - 👯 I’m on the lookout for collaborations that are more engaging than a recursive algorithm.
 - 🤔 I’m open to work – looking for a role where I can debug by day and deploy by night.
-- 💬 Ask me about anything tech-related, and I’ll give you an answer that’s as informative as it is entertaining.
 - 📫 How to reach me: Pull requests are the beginning of a beautiful friendship.
 
 
 
 ### Open to Work 🙋🏽‍♀️
-With a wild eye for detail and a heart for adventure, I'm ready to join a team that values innovation and a dash of fun. 
-If your codebase needs a fresh set of eyes that can see through complexity and turn it into beautifully simple solutions, I'm your person.
+With a wild eye for detail and a heart for adventure, I'm ready to join a team that values innovation and a dash of fun. I have a unique ability to dive into projects and navigate their complexities with care and determination. While I might not always simplify every challenge, I'm confident in my approach to dissecting problems and finding meaningful solutions. If you're looking for someone who brings a fresh perspective and a readiness to tackle even the toughest challenges, I'd love to contribute to your team.
 
 
 
